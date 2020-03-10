@@ -1,10 +1,15 @@
-# rails-dockerfile
+# Rails-6.0
+
+## 動作環境
+
+* Docker version 19.03.5
+* yarn version 1.22.4 
 
 ## 作成環境
 
+* ruby:2.6.5
 * rails:6.0
 * mysql:8.0
-* ruby:2.6
 
 ## ファイル構成
 
