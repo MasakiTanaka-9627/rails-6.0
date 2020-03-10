@@ -58,12 +58,12 @@ production:
 
 5.docker-compose run web rake db:create
 
+エラーがでたら……
+
 ========================================
   Your Yarn packages are out of date!
   Please run `yarn install --check-files` to update.
 ========================================
-
-エラーがでたら……
 
 config/webpacker.ymlのcheck_yarn_integrityをfalseに修正
 
